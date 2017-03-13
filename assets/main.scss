@@ -14,12 +14,15 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2f5bb7;
+$brand-color:      #123171;
 $title-color: 		#c70818;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+
+$gutter: 10px;
+$ungutter: -10px;
 
 // Width of the content area
 $content-width:    1000px;
@@ -41,7 +44,9 @@ $on-laptop:        1000px;
 //@import "site";
 @import "flat";
 
-
+@media screen and (max-width: $on-palm) {
+	@import "mobile";
+}
 
 
 

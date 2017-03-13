@@ -41,8 +41,8 @@ h3 {
 #fq_container {
     max-width: 1000px;
     border: 1px solid #b7b7b7;
-    margin: 0 auto;
-    padding: 10px;
+    margin: $gutter auto;
+    padding: 0 $gutter;
     padding-bottom: 0;
     box-shadow: 0 0 4px #afafaf;
 }
@@ -51,7 +51,7 @@ h3 {
 
 .main-unit {
     border: 1px solid #ffffff;
-    margin: 10px 0;
+    margin: $gutter 0;
     padding: 20px;
     box-shadow: 0px 0px 3px #3e3e3e;
 }
@@ -99,11 +99,6 @@ header.site-header {
   }
 }
 
-@media screen and (max-width: 600px) {
-  header.site-header {
-  }
-}
-
 
 
 
@@ -127,18 +122,20 @@ header.site-header {
 
 
 
-#copyright {
-    margin: 0 auto;
-    margin-top: 20px;
-    background: #383737;
+
+
+#copyright , #top-blurb {
+
+    background: $brand-color;
     color: #fff;
-    padding: 10px 0;
+    padding: $gutter 0;
     text-align: center;
     font-size: .8em;
-        margin-left: -10px;
-    margin-right: -10px;
-}
 
+    margin: 0 $ungutter;
+    border: none;
+    box-shadow: none;
+}
 
 
 
@@ -153,19 +150,14 @@ header.site-header {
 .homepage-latest-post {
     border: 1px solid #000;
     margin: 10px auto;
-
-    
-        
     
     .banner {
               text-align: center;
-        background: #4375B2;
-        /* margin: 10px auto; */
-        padding: 10px;
+        background: $brand-color;
+        font-size: 1.5em;
+        padding: $gutter;
         color: #fff;
         text-transform: uppercase;
-        /* display: inline-block; */
-        /* width: 100%; */
         vertical-align: middle;
         height: 60px;
         line-height: 60px;
@@ -184,6 +176,8 @@ header.site-header {
     .excerpt {
         padding: 10px;
         background: #e8e8e8;
+         border: 1px solid #000;
+       margin: 10px;
     }
 
     .content {
@@ -204,9 +198,10 @@ header.site-header {
 
 
 
+
+
+
 .homepage-recent-posts {
-
-
   
     .banner {
       font-size: 1.3em;
@@ -217,9 +212,9 @@ header.site-header {
     }
 
     .recent-post{
-            margin: 10px 0px 20px 40px;
-    border-left: 5px solid $brand-color;
-    padding: 0 0 0 15px;
+      margin: 10px 0px 20px 40px;
+      border-left: 5px solid $brand-color;
+      padding: 0 0 0 15px;
     }
   
     .title {

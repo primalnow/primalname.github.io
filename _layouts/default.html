@@ -4,33 +4,43 @@
   {% include head.html %}
 
   <body>
+
+
+
+
     <div id='fq_container' class=''>
-      {% include header.html %}
+
+          <div class="main-unit" id="top-blurb">
+            This is a collection of things I've learned on my day-to-day quest for a more conscious, and successful, life.
+          </div>
+
+
+        {% include header.html %}
   
-        <main class="page-content main-unit" aria-label="Content">
-          <!--<div class="wrapper">-->
-            {{ content }}
-          <!--</div>-->
-        </main>
-
-
-      <div id='fq-footer'  class='main-unit'>
-        {% include footer.html %}
-      </div>
-
-
-      <div  class='main-unit'>
-        {% include mailchimp-slim.html %}
-      </div>
-
-
-
-
-    <div id='copyright'>
-      Copyright &copy; PrimalNow.com - All rights reserved
-    </div>
-
-
+          <main class="page-content main-unit" aria-label="Content">
+            <!--<div class="wrapper">-->
+              {{ content }}
+            <!--</div>-->
+          </main>
+          
+          
+          <div id='fq-footer'  class='main-unit'>
+          {% include footer.html %}
+          </div>
+          
+          
+          <div  class='main-unit'>
+          {% include mailchimp-slim.html %}
+          </div>
+          
+          
+          
+          
+          <div id='copyright'>
+            Copyright &copy; PrimalNow.com - All rights reserved
+          </div>
+          
+          
 
     </div>
 
