@@ -1,0 +1,60 @@
+
+  <div class='foot-section'>
+      <h2 class='label'>
+        Navigation:
+      </h2>
+
+      <div class='section'>
+          {% for my_page in site.pages %}
+            {% if my_page.title %}
+              {% if my_page.inmenu == 1 %}
+              <div class='foot-nav-link'>
+                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              </div>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+      </div>
+  </div>
+
+
+  <div class='foot-section'>
+    
+      <h2 class='label'>
+        Introduction:
+      </h2>
+      <div class='section'>
+        <div class='about-us'>
+          This is a blog about discovering God, and discovering the self. About mindfulness, awareness, and consciousness.
+          This is a blog about being happy, and living a meaningful, and successful life.
+        </div>
+      </div>
+  </div>
+
+
+  <div class='foot-section'>
+      <h2 class='label'>
+        Contacts:
+      </h2>
+      <div class='section'>
+        <div class='foot-contact'>Email: <a href="mailto:primalnowblog@gmail.com">primalnowblog@gmail.com</a></div>
+        <div class='foot-contact'>Facebook: <a href="http://fb.com/primalnow">@PrimalNow</a></div>
+        <div class='foot-contact'>Twitter: <a href="http://twitter.com/primalnow">@PrimalNow</a></div>
+        <div class='foot-contact'>Instagram: <a href="http://instagram.com/primalnow">@PrimalNow</a></div>
+      </div>
+  </div>
+
+  <div class='foot-section'>
+      <h2 class='label'>
+        Subscribe:
+      </h2>
+      <div class='section'>
+        <div class='foot-contact'>Feed:  <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></div>
+        <div class='foot-contact'>Mailing List:  <a href="{{ "mailing-list" | relative_url }}">via MailChimp</a></div>
+        <div class='foot-contact'>Push Notifications:  <a href="{{ "/feed.xml" | relative_url }}">via Push</a></div>
+      </div>
+  </div>
+
+
+
+

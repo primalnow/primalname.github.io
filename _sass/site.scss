@@ -1,0 +1,396 @@
+@font-face {
+  font-family: 'abel';
+  src: url('fonts/Abel/Abel-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'harmattan';
+  src: url('fonts/Harmattan/Harmattan-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'header';
+  //src: url('fonts/Rancho/Rancho-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+  src: url('fonts/Quicksand/Quicksand-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+
+
+
+
+
+/* Include your usual CSS here. */
+
+* {
+      color: #555;
+    margin-right: 3px;
+    transition: all 100ms linear;
+}
+
+body {
+  background: #f7f7f7 ;
+  font-family: 'harmattan', sans-serif;
+}
+
+
+a:visited {
+    color: #c70818;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+
+h1, h2, h3, h4, h5 {
+  font-family: 'abel';
+}
+
+
+#fq_container {
+      padding: 0px 0;
+    max-width: 1000px;
+    margin: 20px auto;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.4);
+}
+
+
+
+
+.main-unit {
+    border: 1px solid #b9b9b9;
+    margin: 20px auto;
+    max-width: 1000px;
+    background: #fff;
+    width: 99%;
+    box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.07) inset;
+
+}
+
+
+.site-header {
+    width: 100%;
+    background: chartreuse;
+}
+
+.post-content p {
+    text-align: justify;
+}
+
+header.site-header {
+    border: 1px solid #dcdcdc;
+    border-width: 0 0 1px 0;
+    background: #eaeaea;
+    box-shadow: 0px 0px 70px rgb(247, 247, 247) inset;
+    padding: 20px 0;
+}
+
+
+
+
+.fq-headbar {
+    text-align: center;
+    margin: 0 auto;
+    width: 90%;
+     
+    a {
+      display: block;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+      
+    .banner {
+    }
+    .logo {
+        
+        img {
+          width: 100px;
+        }
+     }
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+  header.site-header {
+    padding-top: 70px;
+  }
+}
+
+
+
+
+
+.wrapper {
+    background: white;
+    width: 98%;
+    border: 1px solid #000;
+    margin: 0 auto;
+  .site-nav {
+    float: none;
+    text-align: center;
+    
+    a {
+      color: #0088b5;
+      font-size: .9em;
+    }
+  }
+  .post {
+    width: 96%;
+    margin: 20px auto;
+  }
+}
+
+
+
+
+.homepage-latest-post {
+    border: 1px solid #000;
+    margin: 10px auto;
+
+    
+        
+    
+    .banner {
+              text-align: center;
+        background: #4375B2;
+        /* margin: 10px auto; */
+        padding: 10px;
+        color: #fff;
+        text-transform: uppercase;
+        /* display: inline-block; */
+        /* width: 100%; */
+        vertical-align: middle;
+        height: 60px;
+        line-height: 60px;
+        padding: 0;
+        
+    }
+    
+
+    .title {
+      padding: 10px;
+      a {
+        color: $title-color;
+      }
+    }
+
+    .excerpt {
+        padding: 10px;
+        background: #e8e8e8;
+    }
+
+    .content {
+        width: 95%;
+        margin: 10px auto;
+    }    
+    .continue {
+      text-align: right;
+      
+      button {
+        margin-right: 20px;
+        font-size: .6em;
+        text-transform: uppercase;
+        padding: 10px;
+      }
+    }
+}
+
+
+
+.homepage-recent-posts {
+
+
+  
+    .banner {
+      font-size: 1.3em;
+      font-weight: bold;
+      color: $branding-color;
+      border-bottom: 1px solid $branding-color;
+      margin-bottom: 20px;
+    }
+
+    .recent-post{
+            margin: 10px 0px 20px 40px;
+    border-left: 5px solid $brand-color;
+    padding: 0 0 0 15px;
+    }
+  
+    .title {
+          margin: 0;
+    font-weight: bold;
+    font-size: 1em;
+    }
+    
+    .excerpt {
+      padding-left: 15px;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.page-all-posts {
+  
+  .all-posts {
+    
+    .post {
+      display: block;
+      display: block;
+      overflow: hidden;
+      padding: 6px 20px;
+      border-top: solid 1px #eef3fa;
+      
+      .date{
+          width: 100px;
+          font-size: .8em;
+          color: #939aa1;
+          display: block;
+      }
+      .title {
+        font-weight: 800;
+        color: #555;
+        margin-right: 3px;
+        transition: all 100ms linear;
+          
+          a {
+            color: #555;
+            text-decoration: none;
+          }
+    
+      }
+      .categories{
+          color: #939aa1;
+          font-weight: normal;
+          font-size: .8em;
+      }
+      
+    }
+  }
+}
+
+@media (min-width: 768px) {
+
+.page-all-posts {
+  .all-posts {
+    
+    .post {
+      padding-left: 0;
+      padding-right: 0;
+      
+      .date{
+        float: left;
+        margin-top: .2em;
+      }
+      .title {
+      }
+      .categories{
+        float: right;
+        margin-top: .2em;
+      }
+      
+    }
+  }  
+}
+  
+}
+
+
+
+
+
+
+
+
+
+#fq-footer {
+  font-size: .9em;
+  
+  .foot-section {
+      width: 90%;
+      margin: 20px auto;
+      background: rgb(249, 249, 249);
+      padding: 20px;
+      border-radius: 6px;
+      border: 1px solid rgba(0,0,0,0.5);
+      border-left: 5px solid rgba(0, 0, 0, 0.5);
+      box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.07) inset;
+    
+      
+      .label {
+          color: $brand-color;
+          text-transform: uppercase;
+          text-decoration: underline;
+          font-weight: bold;
+          margin-bottom: 10px;
+      }
+      .section {
+          margin-left: 20px;
+          color: #5f5f5f;
+      }
+  
+  }
+}
+
+
+//
+//
+//
+//.homepage-recent-posts {
+//
+//    width: 90%;
+//    margin: 50px auto;
+//    background: beige;
+//    border: 1px solid #000;
+//    //padding: 20px 0;
+//  
+//    
+//
+//    .recent-post{
+//      width: 90%;
+//      margin: 10px auto;
+//      background: aliceblue;
+//      border: 1px solid #000;
+//    }
+//  
+//    .title {
+//      font-size: 1.3em;
+//      text-align: center;
+//      border-bottom: 1px solid #000;
+//      padding-top: 10px;
+//      padding: 10px 0;
+//    }
+//    
+//    .excerpt {
+//      width: 90%;
+//      margin: auto;
+//      text-align: justify;
+//      padding: 5px 0 20px 0;
+//    }
+//    
+//}
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+

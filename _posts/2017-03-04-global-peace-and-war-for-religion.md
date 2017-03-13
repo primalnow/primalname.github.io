@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Global peace and Religion for War
-tags: Peace, Harmony, Religin, War, Islam, Christianity, Judaism, Jews, Muslims, Christians, Love, Taoism, Buddhism, Stoicism, Buddha, Lao Tzu, Muhammad, Jesus, Moses, Torah, Bible, Quran
-categories: faith
+title:  "Global Peace and War for Religion"
+date:   2017-03-04 18:03:54 +0500
+categories: Faith
+fq_excerpt: Millions of people continue to be killed, in the name of religion. No religion, or philosophy, endorses such atrocities. We need to re-evaluate the situation.
 ---
 
-Excerpt:
-Millions of people continue to be killed, in the name of religion. No religion, or philosophy, endorses such atrocities. We need to re-evaluate the situation.
 
-
-Summary:
+## Summary: ##
 1. All religions, and philosophies, want to enable people to be happy.
 2. People have been killing each other for their beliefs.
 3. No religion allows violence against any form of life.
@@ -18,7 +16,8 @@ Summary:
 6. We need to unlearn everything, and look at global harmony with a new spirit.
 
 ---
-Related Articles:
+
+## Related Articles: ##
 
 Chronlogy of Prophets, and Spiritual Leaders
 
@@ -41,7 +40,5 @@ Eckhart Tolle talks about this awakening in his book "The New Earth"
 Collective human consciousness and life on our planet are intrinsically connected. "A new heaven" is the emergence of a transformed state of human consciousness, and "a new earth" is its reflection in the physical realm. Since human life and human consciousness are intrinsically one with the life of the planet, as the old consciousness dissolves, there are bound to be synchronistic geographic and climatic natural upheavals in many parts of the planet, some of which we are already witnessing now.
 
 We need to unlearn all that has been embedded in our minds, by our parents, education, media, and society. We need to become children again - evaluate, and embrace all learnings with a new spirit.
-
-
 
 
