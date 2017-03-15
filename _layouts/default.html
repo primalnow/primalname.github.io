@@ -5,23 +5,22 @@
 
   <body>
 
+        {% include logo-bar.html %}
+  
 
-
+        {% include top-menu.html %}
 
     <div id='fq_container' class=''>
 
-          <div class="main-unit" id="top-blurb">
-            This is a collection of things I've learned on my day-to-day quest for a more conscious, and successful, life.
-          </div>
+            
+        {% include top-blurb.html %}
 
 
-        {% include header.html %}
-  
-          <main class="page-content main-unit" aria-label="Content">
+          <!--<main class="page-content main-unit" aria-label="Content">-->
             <!--<div class="wrapper">-->
               {{ content }}
             <!--</div>-->
-          </main>
+          <!--</main>-->
           
           
           <div id='fq-footer'  class='main-unit'>

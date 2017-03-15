@@ -1,12 +1,18 @@
 
+
 body {
-  font-family: verdana, rahoma, serif;
-  font-size: 16px;
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+  font-weight: lighter;
+  line-height: 1.6em;
+  margin: 0;
+  padding: 0;
 }
 
 
 a:visited {
     color: #c70818;
+    font-weight: regular;
 }
 
 a {
@@ -45,7 +51,12 @@ h3 {
     padding: 0 $gutter;
     padding-bottom: 0;
     box-shadow: 0 0 4px #afafaf;
+    
+    padding: 0;
 }
+
+
+
 
 
 
@@ -54,7 +65,18 @@ h3 {
     margin: $gutter 0;
     padding: 20px;
     box-shadow: 0px 0px 3px #3e3e3e;
+    
+    margin: 5px;
+    margin-bottom: 20px;
+    background: #fdfdfd;
 }
+
+main.main-unit {
+    padding: 0;
+    border: 0;
+    background: #fff;
+}
+
 
 
 .site-header {
@@ -70,7 +92,9 @@ header.site-header {
 }
 
 
-
+.main-unit.logo {
+    box-shadow: none;
+}
 
 .fq-headbar {
   text-align: center;
@@ -91,6 +115,8 @@ header.site-header {
 
 
 .post-content {
+  background: none;
+  
   p {
     text-align: justify;
     width: 94%;
@@ -126,8 +152,8 @@ header.site-header {
 
 #copyright , #top-blurb {
 
-    background: $brand-color;
-    color: #fff;
+    background: #f1f1f1;
+    color: $brand-color;
     padding: $gutter 0;
     text-align: center;
     font-size: .8em;
@@ -135,6 +161,8 @@ header.site-header {
     margin: 0 $ungutter;
     border: none;
     box-shadow: none;
+    
+    margin: 0 auto;
 }
 
 
@@ -152,7 +180,7 @@ header.site-header {
     margin: 10px auto;
     
     .banner {
-              text-align: center;
+        text-align: center;
         background: $brand-color;
         font-size: 1.5em;
         padding: $gutter;
@@ -168,6 +196,7 @@ header.site-header {
 
     .title {
       padding: 10px;
+      margin-top: 20px;
       a {
         color: $title-color;
       }
@@ -234,3 +263,55 @@ header.site-header {
 
 
 
+#top-menu-bar {
+  border-bottom: 2px solid #f9edbe;
+  //background: azure;
+  margin:10px auto;
+
+
+      #top-menu {
+          padding: 0;
+          margin:  0;
+          display: table;
+          border-collapse: separate;
+          border-spacing: 2px 0;
+          width: 100%;
+          
+          .top-menu-item {
+              height: 40px !important;
+              background: #f9edbe;
+              border-radius: 10px 10px 0px 0px;
+              text-align: center;
+              display: table-cell;
+              vertical-align: middle;
+              font-size: .8em;
+              width: 100px;
+              margin: 1px;
+              box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.08) inset;
+              
+              .blank {
+                width: auto;
+              }
+              
+              a {
+                color: #000
+              }
+              a:visited {
+                color: #000;
+              }
+              a:hover {
+                text-decoration: underline;
+              }
+          }
+          
+          .top-menu-item.blank {
+            width: auto !important;
+            border: none;
+            background: none !important;
+            box-shadow: none;
+          }
+
+      }
+}
+      
+      
