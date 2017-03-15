@@ -1,26 +1,22 @@
 
 
 <div class="homepage-latest-post post">  
-  {% assign post = site.posts.first %}
+  {% assign thispost = site.posts.first %}
   <div class='banner'>Latest Post</div>
 
-    {% if post.title %}
-      <h1 class="title">
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h1>
-    {% else %}
-      <h1 class="title">
-          <a href="{{ root_url }}{{ post.url }}">Untitled Post</a>
-      </h1>
-    {% endif %}
-    <div class="excerpt">{{ post.fq_excerpt }}</div>
-    <div class="content">
-        {{ post.content | truncatewords:60 }} ...
-        
-        <div class='continue'>
-        <a href="{{ root_url }}{{ post.url }}"><button>Continue Reading</button></a>
-        </div>
-    </div>
+
+
+{% include post-title.html %}
+
+
+
+    <div class="excerpt">{{ thispost.excerpt }}</div>
+
+
+
+      <div class='continue'>
+        <a href="{{ root_url }}{{ thispost.url }}">Continue Reading</a>
+      </div>
 
 </div>
 

@@ -1,10 +1,42 @@
 
+@font-face {
+font-family: 'Merriweather';
+src: url('fonts/Merriweather/Merriweather-Light.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'Merriweather';
+src: url('fonts/Merriweather/Merriweather-LightItalic.ttf') format('truetype');
+font-weight: normal;
+font-style: italic;
+ }
+@font-face {
+font-family: 'Merriweather';
+src: url('fonts/Merriweather/Merriweather-Bold.ttf') format('truetype');
+font-weight: bold;
+font-style: normal;
+}
+@font-face {
+font-family: 'Merriweather';
+src: url('fonts/Merriweather/Merriweather-BoldItalic.ttf') format('truetype');
+font-weight: bold;
+font-style: italic;
+}
+
+
+
+
+
+
+
+
 
 body {
   font-family: 'Merriweather', serif;
-  font-size: 18px;
-  font-weight: lighter;
-  line-height: 1.6em;
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 1.4em;
   margin: 0;
   padding: 0;
 }
@@ -53,6 +85,7 @@ h3 {
     box-shadow: 0 0 4px #afafaf;
     
     padding: 0;
+    margin: 0 auto;
 }
 
 
@@ -71,11 +104,26 @@ h3 {
     background: #fdfdfd;
 }
 
+
+
+
+
 main.main-unit {
     padding: 0;
     border: 0;
     background: #fff;
+    font-size:18px;
+    line-height: 1.8em;
 }
+
+
+
+header.main-unit {
+    padding: 0;
+    margin: 0;
+    margin-top: 20px;
+}
+
 
 
 
@@ -84,34 +132,26 @@ main.main-unit {
     
 }
 
-.post-content p {
-}
-
-header.site-header {
-    background: #eaeaea;
-}
-
 
 .main-unit.logo {
     box-shadow: none;
-}
-
-.fq-headbar {
-  text-align: center;
-    a {
-    }
-      
-    .banner {
-    }
-    .logo {
+    margin: 10px auto;
+    text-align: center;
+    
+  
         img {
-          width: 100px;
+          width: 80px;
         }
-     }
+
 }
 
 
-
+article.post {
+    border: 1px solid #000;
+    margin: 20px 5px 100px 5px;
+    font-size:18px;
+    line-height: 1.8em;
+}
 
 
 .post-content {
@@ -126,10 +166,21 @@ header.site-header {
 }
 
 
+.post-meta {
+    text-align: center;
+    color: #666;
+    margin-bottom: 30px;
+    font-size: .8em;
+}
+
+
 
 
 
 #fq-footer {
+
+
+  background: #f3f3f3;
   .foot-section {
     h2 {
       color: $brand-color;
@@ -156,7 +207,6 @@ header.site-header {
     color: $brand-color;
     padding: $gutter 0;
     text-align: center;
-    font-size: .8em;
 
     margin: 0 $ungutter;
     border: none;
@@ -191,6 +241,7 @@ header.site-header {
         line-height: 60px;
         padding: 0;
         
+        display: none;
     }
     
 
@@ -204,9 +255,11 @@ header.site-header {
 
     .excerpt {
         padding: 10px;
-        background: #e8e8e8;
-         border: 1px solid #000;
-       margin: 10px;
+       // background: #e8e8e8;
+       //  border: 1px solid #000;
+       //margin: 10px;
+       margin: 10px auto;
+       
     }
 
     .content {
@@ -215,13 +268,15 @@ header.site-header {
     }    
     .continue {
       text-align: right;
+      margin: 20px;
       
-      button {
-        margin-right: 20px;
-        font-size: .6em;
-        text-transform: uppercase;
-        padding: 10px;
+      a {
+            border: 1px solid #000;
+          padding: 10px;
+          background: $brand-color;
+          color: #fff;
       }
+      
     }
 }
 
@@ -241,8 +296,8 @@ header.site-header {
     }
 
     .recent-post{
-      margin: 10px 0px 20px 40px;
-      border-left: 5px solid $brand-color;
+      margin: 10px 0px 20px 20px;
+      //border-left: 5px solid $brand-color;
       padding: 0 0 0 15px;
     }
   
@@ -264,9 +319,9 @@ header.site-header {
 
 
 #top-menu-bar {
-  border-bottom: 2px solid #f9edbe;
+  //border-bottom: 2px solid #f9edbe;
   //background: azure;
-  margin:10px auto;
+  margin:0px auto;
 
 
       #top-menu {
@@ -279,16 +334,18 @@ header.site-header {
           
           .top-menu-item {
               height: 40px !important;
-              background: #f9edbe;
+              background: #fffffe;
               border-radius: 10px 10px 0px 0px;
               text-align: center;
               display: table-cell;
               vertical-align: middle;
-              font-size: .8em;
+              //font-size: .8em;
               width: 100px;
               margin: 1px;
+              border: 1px solid #ccc;
+              border-bottom: 0;
               box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.08) inset;
-              
+                
               .blank {
                 width: auto;
               }
@@ -315,3 +372,55 @@ header.site-header {
 }
       
       
+      
+      
+      
+      
+      
+      
+#featured-image {
+    width: 100%;
+    overflow: hidden;
+
+    
+    img {
+        width: inherit;
+        padding: 0;
+        margin: 0;
+    }
+}
+
+
+
+
+
+
+
+#featured-image-banner {
+    display: table;
+    background: red;
+    width: 100%;
+    height: 300px;
+    vertical-align: middle;
+    text-align: center;
+    
+
+    background: rgb(251,131,250); /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover, rgba(251,131,250,1) 0%, rgba(233,60,236,1) 100%); /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(251,131,250,1) 0%,rgba(233,60,236,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(ellipse at center, rgba(251,131,250,1) 0%,rgba(233,60,236,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fb83fa', endColorstr='#e93cec',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+
+
+      div{
+            display: table-cell;
+        vertical-align: middle;
+        font-size: 60px;
+        font-weight: 900;
+        color: #000;
+      }
+
+}
+
+
