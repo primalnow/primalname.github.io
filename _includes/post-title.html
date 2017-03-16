@@ -1,7 +1,14 @@
   {% assign named_image_exists = "false" %}
   {% if thispost.image %}
     {% assign featuredimage =  '/media/featured-images/' | append: thispost.image   %}
-      {% capture named_image_exists %}{% file_exists {{ featuredimage }} %}{% endcapture %}
+
+{% for static_file in site.static_files %}
+    {% if static_file.path == {{ featuredimage }} %}
+        {% assign named_image_exists = “true” %}
+    {% endif %}
+{% endfor %}
+
+
   {% endif %}
   <a href="{{ thispost.url | relative_url }}">
     {% if named_image_exists == "true" %}
