@@ -1,0 +1,29 @@
+
+
+.all-posts {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 0 1px;
+    background: #ccc;
+    font-size: .9em;
+    .post {
+        display: table-row;;
+
+        span {
+            display: table-cell;
+            padding: 0 7px;
+            background: #fff;
+        }
+        .date {
+            white-space: nowrap;
+            text-align: left;
+        }
+        .title {
+            text-align: left;
+        }
+        .categories {
+            text-align: right;
+
+        }
+    }
+}

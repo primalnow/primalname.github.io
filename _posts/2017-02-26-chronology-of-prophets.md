@@ -2,8 +2,8 @@
 layout: post
 title:  "Chronology of Prophets and Spiritual Leaders"
 date:   2017-02-26 18:03:54 +0500
-categories: Mindfulness, Faith
-tags: mindfulness, faith, religion, god, prophets, jesus, muhammad, taoism, buddhism, hinduism, shintoism
+categories: Religions
+tags: mindfulness faith religion god prophets jesus muhammad taoism buddhism hinduism shintoism
 fq_excerpt:
 fq_featuredimage:
 ---

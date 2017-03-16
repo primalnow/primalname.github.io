@@ -3,7 +3,7 @@
     //background: #f3f3f3;
     margin: 0px;
   }
-  
+
   .main-unit {
     padding: 3px;
 	    //background: white;
@@ -19,7 +19,7 @@
 	}
 
 
-  
+
   #fq_container {
         padding: 0 5px;
     //border: none;
@@ -27,7 +27,7 @@
     margin: 0px auto;
 	padding: 0;
   }
-  
+
   .page-content {
     padding: 0;
     border: none;
@@ -36,7 +36,7 @@
     margin-right: 3px;
   }
 
-    
+
   #latest-post {
       margin: 40px 0 100px 0;
       padding: 0;
@@ -44,7 +44,7 @@
 
   }
 
-  
+
   .homepage-latest-post {
     border: 0;
     padding: 0;
@@ -64,10 +64,42 @@
 	.fq-headbar .logo img {
 		width: 60px;
 	}
-	
+
 	#copyright , #top-blurb {
-	
+
 		//padding: 10px;
 		margin: 0 ;
-	
+
 	}
+
+
+
+
+
+.post-content {
+  margin: 20px;
+}
+
+
+
+
+
+
+.all-posts {
+    .post {
+        margin-bottom: 20px;
+        .date {
+            display: block;;
+        }
+        .title {
+            display: block;
+            text-indent: 20px;
+            color: #888;
+        }
+        .categories {
+            display: block;
+            text-indent: 30px;
+            color: #888;
+        }
+    }
+}

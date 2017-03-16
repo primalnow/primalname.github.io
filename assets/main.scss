@@ -50,11 +50,6 @@ $on-laptop:        1000px;
 	@import "mobile";
 }
 
-
-
-
-
-
-
-
-
+@media screen and (min-width: 600px) {
+	@import "laptop";
+}
