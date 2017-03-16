@@ -39,6 +39,7 @@ body {
   line-height: 1.4em;
   margin: 0;
   padding: 0;
+  background: #efefef;
 }
 
 
@@ -78,11 +79,11 @@ h3 {
 
 #fq_container {
     max-width: 1000px;
-    border: 1px solid #b7b7b7;
+    //border: 1px solid #b7b7b7;
     margin: $gutter auto;
     padding: 0 $gutter;
     padding-bottom: 0;
-    box-shadow: 0 0 4px #afafaf;
+    //box-shadow: 0 0 4px #afafaf;
     
     padding: 0;
     margin: 0 auto;
@@ -97,11 +98,11 @@ h3 {
     border: 1px solid #ffffff;
     margin: $gutter 0;
     padding: 20px;
-    box-shadow: 0px 0px 3px #3e3e3e;
+    box-shadow: 1px 4px 6px #9e9e9e;
     
     margin: 5px;
     margin-bottom: 20px;
-    background: #fdfdfd;
+    background: #f9f9f9;
 }
 
 
@@ -137,6 +138,8 @@ header.main-unit {
     box-shadow: none;
     margin: 10px auto;
     text-align: center;
+    background: transparent;
+    border: 0;
     
   
         img {
@@ -180,7 +183,7 @@ article.post {
 #fq-footer {
 
 
-  background: #f3f3f3;
+  //background: #f3f3f3;
   .foot-section {
     h2 {
       color: $brand-color;
@@ -213,9 +216,12 @@ article.post {
     box-shadow: none;
     
     margin: 0 auto;
+    background: transparent;
 }
 
-
+#copyright {
+    margin: 20px auto;
+}
 
 
 
@@ -268,13 +274,15 @@ article.post {
     }    
     .continue {
       text-align: right;
-      margin: 20px;
+      //margin: 20px;
       
       a {
-            border: 1px solid #000;
+          border: 1px solid #000;
           padding: 10px;
           background: $brand-color;
           color: #fff;
+          display: inline-block;
+          margin: 20px ;
       }
       
     }
@@ -320,6 +328,7 @@ article.post {
   //border-bottom: 2px solid #f9edbe;
   //background: azure;
   margin:0px auto;
+  border-bottom: 1px solid #ccc;
 
 
       #top-menu {
@@ -412,13 +421,35 @@ article.post {
 
 
       div{
-            display: table-cell;
         vertical-align: middle;
         font-size: 60px;
         font-weight: 900;
         color: #000;
+        line-height: 1.2em;
+        width: 96%;
+        margin: 0 auto;
+        height: inherit;
+        display: flex;
+        justify-content: center;
+        align-items: center;
       }
 
 }
 
 
+
+/* mailchimp */
+#mc_embed_signup {
+    background: transparent !important;
+}
+
+
+
+
+
+
+.vertically-align {
+        display: flex;
+        justify-content: center;
+        align-items: center;  
+}
