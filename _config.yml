@@ -27,16 +27,19 @@ instagram_username: PrimalNow
 
 # Build settings
 markdown: kramdown
+#theme: minima
 
 gems:
   - jekyll-feed
   - jekyll-seo-tag
+  #- jekyll-paginate-v2
   - jemoji
   
 exclude:
   - Gemfile
   - Gemfile.lock
 
+#theme: minimal-mistakes-jekyll
 
 
 # Outputting
@@ -47,3 +50,15 @@ permalink:     "/:categories/:title"
 # Conversion
 excerpt_separator: "<!--more-->"
 
+
+#
+#paginate: 5
+#paginate_path: "/blog/page:num/"
+#
+
+
+
+
+title: "The Primal Now"
+description: "The journey to a more successful, and useful, life. A life of consciousness and awareness."
+url: "blog.primalnow.com"
