@@ -6,8 +6,10 @@ categories: Faith
 fq_excerpt: Millions of people continue to be killed, in the name of religion. No religion, or philosophy, endorses such atrocities. We need to re-evaluate the situation.
 ---
 
+<div class='post-summary' markdown='1'>
 
-## Summary: ##
+## Summary:
+
 1. All religions, and philosophies, want to enable people to be happy.
 2. People have been killing each other for their beliefs.
 3. No religion allows violence against any form of life.
@@ -15,9 +17,10 @@ fq_excerpt: Millions of people continue to be killed, in the name of religion. N
 5. The Internet is allowing people to talk to each other. Ideas are being shared, like never before in history.
 6. We need to unlearn everything, and look at global harmony with a new spirit.
 
+</div>
 ---
 
-## Related Articles: ##
+## Related Articles:
 
 [Chronlogy of Prophets, and Spiritual Leaders]({% post_url 2017-02-26-chronology-of-prophets %})
 
@@ -29,9 +32,21 @@ All scriptures, divinely inspired texts, and teachings of the greatest teachers,
 
 Since the beginning of recorded history, people have killed millions, in the name of faith, religion, and belief. If these warring factions had ever stood true to the philosophy, or divine instruction, whose banner they fight under, it would be clear as daylight that they were deceiving the very same edict.
 
+
+<div class='quotation'>
+"All religions, and inspired texts, want every sentient creation to be happy."
+</div>
+
+
 But a new social consciousness is quickly emerging. With the help of the internet, we are experiencing an unprecedented interaction between people of all ideologies, and backgrounds. It is no longer possible for fake spiritual and religious leaders to rile up their followers and lead them into false wars.
 
 This evolution, though not complete, is becoming stronger every day. Commanders who lead their followers to the destruction of happiness are now being questioned. Every ideology is being put to test.
+
+
+<div class='quotation'>
+<a target="_blank"  href="https://www.amazon.com/gp/product/0452289963/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0452289963&linkCode=as2&tag=primalnow-20&linkId=ccd022a79fc1fe69634c51b812079dff"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0452289963&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=primalnow-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=primalnow-20&l=am2&o=1&a=0452289963" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</div>
+
 
 Sure, we are still at war amongst each other, and maybe many more wars are to be fought, but for the first time, in the history of mankind, a new era of peace and happiness seems at hand.
 

@@ -478,7 +478,7 @@ header.page-header {
             color: #888;
         }
         .title {
-            
+
         }
         .categories {
             font-size: .8em;
@@ -486,4 +486,28 @@ header.page-header {
 
         }
     }
+}
+
+
+
+
+
+
+.quotation {
+    margin: 20px 10px;
+    font-size: 1.6em;
+    line-height: 1.6em;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+
+.post-summary {
+    background: #dcdcdc;
+    padding: 5px;
+    margin-bottom: 20px;
+    border: solid #000;
+    border-width: 1px 0;
 }
