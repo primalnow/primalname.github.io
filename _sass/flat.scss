@@ -66,7 +66,7 @@ h1 {
 }
 h2 {
        font-size: 1.5em;
-    text-decoration: underline;
+    // text-decoration: underline;
     margin-bottom: 10px;
 }
 h3 {
@@ -155,17 +155,38 @@ article.post {
     font-size:18px;
     line-height: 1.8em;
     background: #fff;
+
+
+    h1 {
+        text-align: center;
+        margin: 30px 30px 10px 30px;
+        line-height: 130%;
+        font-size: 200%;
+    }
 }
 
 
 .post-content {
   margin: 60px;
 
+
+  h2 {
+      margin: 50px -10px 20px -10px;
+     border-bottom: 1px solid;
+     padding-bottom: 10px;
+  }
+  h4 {
+        font-size: 1.2em;
+  }
   p {
     text-align: justify;
     margin: 0 auto;
     margin-bottom: 20px;
   }
+
+
+
+
 }
 
 
@@ -509,4 +530,26 @@ header.page-header {
     margin-bottom: 20px;
     border: solid #000;
     border-width: 1px 0;
+}
+
+
+
+.post-block {
+    margin: 20px 0;
+    background: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #b5b5b5;
+    box-shadow: 1px 1px 1px #fff inset;
+}
+
+
+
+.amazon-item {
+    background: #e8e8e8;
+    padding: 20px;
+    text-align: center;
+    max-width: 300px;
+    margin: 10px 20px;
+    border: 1px solid #b5b5b5;
+    box-shadow: 1px 1px 1px #fff inset;
 }

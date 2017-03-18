@@ -8,7 +8,7 @@ fq_excerpt: Millions of people continue to be killed, in the name of religion. N
 
 <div class='post-summary' markdown='1'>
 
-## Summary:
+#### Summary:
 
 1. All religions, and philosophies, want to enable people to be happy.
 2. People have been killing each other for their beliefs.
@@ -18,11 +18,10 @@ fq_excerpt: Millions of people continue to be killed, in the name of religion. N
 6. We need to unlearn everything, and look at global harmony with a new spirit.
 
 </div>
----
 
-## Related Articles:
+#### Related Articles:
 
-[Chronlogy of Prophets, and Spiritual Leaders]({% post_url 2017-02-26-chronology-of-prophets %})
+-   [Chronlogy of Prophets, and Spiritual Leaders]({% post_url 2017-02-26-chronology-of-prophets %})
 
 ---
 

@@ -1,29 +1,39 @@
-  {% assign named_image_exists = "false" %}
+
+  {% assign named_image_exists = 0 %}
+
+
   {% if thispost.image %}
+
+
     {% assign featuredimage =  '/media/featured-images/' | append: thispost.image   %}
-
-{% for static_file in site.static_files %}
-    {% if static_file.path == {{ featuredimage }} %}
-        {% assign named_image_exists = “true” %}
-    {% endif %}
-{% endfor %}
-
-
+        {% for static_file in site.static_files %}
+                    {% if static_file.path == featuredimage  %}
+                        {% assign named_image_exists = 1 %}
+                        {% break %}
+                    {% endif %}
+        {% endfor %}
   {% endif %}
-  <a href="{{ thispost.url | relative_url }}">
-    {% if named_image_exists == "true" %}
-      <div id="featured-image">
-        <img src ="{{ site.url }}{{ featuredimage }}">
-      </div>
-      <h1 class="title">
-          <a href="{{ thispost.url | relative_url }}">{{ thispost.title }}</a>
-      </h1>
-    {% else %}
-      <div id="featured-image-banner">
-          <div>
-           {{ thispost.title }}
-          </div>
-      </div>
-    {% endif %}
-  </a>
 
+
+
+
+{% if include.page-type != 'post' %}
+  <a href="{{ thispost.url | relative_url }}">
+{% endif %}
+        {% if named_image_exists == 1 %}
+              <div id="featured-image">
+                <img src ="{{ site.url }}{{ featuredimage }}">
+              </div>
+              <h1 class="title">
+                 {{ thispost.title }}
+              </h1>
+        {% else %}
+          <div id="featured-image-banner">
+              <div>
+               {{ thispost.title }}
+              </div>
+          </div>
+        {% endif %}
+{% if zone != 'post' %}
+  </a>
+{% endif %}
