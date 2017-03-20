@@ -4,8 +4,20 @@ title: 'What is The Primal Now'
 tags: Quran, Bible, God, Life, Primal, Power of Now, Mindfulness, Awareness, Consciousness, Heaven, Hell, Mind
 categories: Mindfulness
 excerpt: In the primal state, Adam and Eve were free, without the constraints of time. There was nothing but pure love, and eternity. Is there any way of returning to that heaven?
-image: xthe-99-club.jpg
+image: what-is-primal-now.jpg
 ---
+
+
+<div class='post-summary' markdown='1'>
+
+#### Summary:
+*   222   
+*   2333
+*   555
+
+</div>
+
+
 
 
 ## What is Primal?
@@ -52,15 +64,15 @@ They were in Eden. Adam and Eve lived in the moment, they were one with the univ
 And then came the evil. Satan caused them to stumble. They were dislodged from the eternal now, what they had been in. They now lived in time. There was a past, and a future. Suddenly they had egos.
 
 <blockquote>and We said, 'Get down, being enemies of one another! On the earth shall be your abode and sustenance for a time.'
-<h5 style='text-align: right;'>Quran 2:36</h5>
+<h5>Quran 2:36</h5>
 </blockquote>
 
 <blockquote>And I will put enmity between you and the woman, and between your offspring and hers; he will crush your head and you will strike his heel.
-<h5 style='text-align: right;'>Genesis 3:15</h5>
+<h5>Genesis 3:15</h5>
 </blockquote>
 
 <blockquote>Then the eyes of both of them were opened, and they realized they were naked; so they sewed fig leaves together and made coverings for themselves.
-<h5 style='text-align: right;'>Genesis 3:7</h5>
+<h5>Genesis 3:7</h5>
 </blockquote>
 
 Now they had knowledge of good and evil. Shame had come between them. Their purity and innocence was lost. They were now judging each other, because now they thought they knew what was right or wrong. They thought they knew what was good, and what was evil.
@@ -103,7 +115,7 @@ They had been living in the timeless now, where there was no good, or evil. Ther
 Yes. God offers relief from the toil, and misery, that man shall suffer during his death. Quran makes it very clear:
 
 <blockquote>'Yet, should any guidance come to you from Me, those who follow My guidance shall have no fear, nor shall they grieve”
-<h5 style='text-align: right;'>Quran 2:38</h5>
+<h5>Quran 2:38</h5>
 </blockquote>
 
 <blockquote>'But those who are faithless and deny Our signs, they shall be the inmates of the Fire and they shall remain in it”
@@ -140,3 +152,13 @@ What we need to do is to find the lost heaven. Go back to the way Adam and Eve l
 ----
 
 # WELCOME TO THE PRIMAL NOW
+
+
+
+
+
+<div class='post-block' markdown='1' id='related-articles'>
+
+#### Related Articles:
+-   [War in the name of religion]({% post_url 2017-03-04-global-peace-and-war-for-religion %})
+</div>

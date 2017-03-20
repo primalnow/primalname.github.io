@@ -19,11 +19,6 @@ fq_excerpt: Millions of people continue to be killed, in the name of religion. N
 
 </div>
 
-#### Related Articles:
-
--   [Chronlogy of Prophets, and Spiritual Leaders]({% post_url 2017-02-26-chronology-of-prophets %})
-
----
 
 All religions, and philosophies, share one common purpose at their core - Individual and collective happiness of human beings, as well as all sentient beings. The happiness of the individual and the collective is the only true purpose of life.
 
@@ -54,3 +49,11 @@ Eckhart Tolle talks about this awakening in his book "<a href='https://www.amazo
 Collective human consciousness and life on our planet are intrinsically connected. "A new heaven" is the emergence of a transformed state of human consciousness, and "a new earth" is its reflection in the physical realm. Since human life and human consciousness are intrinsically one with the life of the planet, as the old consciousness dissolves, there are bound to be synchronistic geographic and climatic natural upheavals in many parts of the planet, some of which we are already witnessing now.
 
 We need to unlearn all that has been embedded in our minds, by our parents, education, media, and society. We need to become children again - evaluate, and embrace all learnings with a new spirit.
+
+
+
+<div class='post-block' markdown='1' id='related-articles'>
+
+#### Related Articles:
+-   [Chronlogy of Prophets, and Spiritual Leaders]({% post_url 2017-02-26-chronology-of-prophets %})
+</div>

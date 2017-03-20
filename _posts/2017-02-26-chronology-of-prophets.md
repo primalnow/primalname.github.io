@@ -16,11 +16,6 @@ image: chronology-of-prophets-primal-now.jpg
 *   A timeline of prophets, and philosophers, shows a progressive evolution, and inter-connection.
 </div>
 
-#### Related Articles:
-
--   [War in the name of religion]({% post_url 2017-03-04-global-peace-and-war-for-religion %})
-
----
 
 Prophets, greatest teachers, philosophers, have left us with profound teachings. Unfortunately, ego, and personal greed prevent followers of these teachings from seeing that they all serve the same core purpose.
 
@@ -200,4 +195,12 @@ The Author of The Book of Five Rings
         <a href="https://www.amazon.com/gp/product/1935785974/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1935785974&amp;linkCode=as2&amp;tag=primalnow-20&amp;linkId=f2abe74ea6dae15e1aca0127c6109782" target="_blank"><img src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=US&amp;ASIN=1935785974&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL250_&amp;tag=primalnow-20" border="0" /></a><img style="border: none !important; margin: 0px !important;" src="//ir-na.amazon-adsystem.com/e/ir?t=primalnow-20&amp;l=am2&amp;o=1&amp;a=1935785974" alt="" width="1" height="1" border="0" />
 
     </div>
+</div>
+
+
+
+<div class='post-block' markdown='1' id='related-articles'>
+
+#### Related Articles:
+-   [War in the name of religion]({% post_url 2017-03-04-global-peace-and-war-for-religion %})
 </div>
