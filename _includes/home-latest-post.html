@@ -1,22 +1,31 @@
 
 
-<div class="homepage-latest-post post">  
+<div class="homepage-latest-post post">
   {% assign thispost = site.posts.first %}
   <div class='banner'>Latest Post</div>
-
-
 
 {% include post-title.html %}
 
 
+    {% if thispost.description %}
+        {% assign desc =  thispost.description %}
+    {% else %}
+        {% assign desc =  thispost.excerpt %}
+    {% endif %}
 
-    <div class="excerpt">{{ thispost.excerpt }}</div>
+    {% assign desc =   desc | truncate: 245, '...'  %}
+
+    {% assign descsize = desc.size %}
+    {% if descsize < 220 %}
+        {% assign desc =   desc | append: '---' %}
+    {% endif %}
 
 
+
+        <div class="excerpt">{{ desc }}</div>
 
       <div class='continue'>
         <a href="{{ root_url }}{{ thispost.url }}">Continue Reading</a>
       </div>
 
 </div>
-
