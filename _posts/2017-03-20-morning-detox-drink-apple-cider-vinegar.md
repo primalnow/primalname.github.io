@@ -9,6 +9,7 @@ image: apple-cider-vinegar-primal-now.jpg
 published: 1
 ---
 
+
 Please read my [Legal Disclaimer]({% post_url 2017-01-01-disclaimer %}){:target="_blank"} before reading this post.
 
 Drinking Apple cider vinegar (ACV), first thing in the morning, is getting very popular these days. You could just have ACV, with some honey, in warm water every morning - or you could go into a little more detail, and enjoy the added benefits of a non-breakfast plan.
