@@ -1,27 +1,12 @@
 ---
-title: Intermittent Fasting - A Cure for Cancer
-date: 2017-03-20 13:03:54 Z
-categories:
-- Health
-tags:
-- Fast,
-- Fasting,
-- Intermitent
-- Ramadan,
-- Science,
-- Cancer,
-- Stem
-- Cell,
-- WBC,
-- non-mucous,
-- mucous-free,Infection,
-- Leukocytes
-- or
-- Leucocytes
 layout: post
-description: Intermittent fasting can regenerate entire immune system, and possibly
-  cure cancer.
+title:  "Intermittent Fasting - A Cure for Cancer"
+date:   2017-03-20 18:03:54 +0500
+categories: Health
+tags: Fast, Fasting, Intermitent Fasting, Ramadan, Science, Cancer, Stem Cell, WBC, Cancer, non-mucous, mucous-free,Infection, Leukocytes or Leucocytes
+description: Intermittent fasting can regenerate entire immune system, and possibly cure cancer.
 image: natural-cure-for-cancer-primal-now.jpg
+published: 1
 ---
 
 Please read my [Legal Disclaimer]({% post_url 2017-01-01-disclaimer %}){:target="_blank"} before reading this post.

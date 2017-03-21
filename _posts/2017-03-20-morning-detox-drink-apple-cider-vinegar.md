@@ -1,33 +1,14 @@
 ---
-title: Daily Detox with Apple Cider Vinegar
-date: 2017-03-20 14:03:54 Z
-categories:
-- Health
-tags:
-- Fast,
-- Fasting,
-- Intermitent
-- Ramadan,
-- Science,
-- Cancer,
-- Stem
-- Cell,
-- WBC,
-- non-mucous,
-- mucous-free,Infection,
-- Leukocytes,
-- Leucocytes,
-- Apple
-- Cider
-- Vinegar,
-- ACV,
-- Honey,
-- Cinnamon
 layout: post
-description: Drinking Apple cider vinegar, Honey, Turmeric, and Cinnamon, first thing
-  in the morning, could add many healthy years to your life.
+title:  "Daily Detox with Apple Cider Vinegar"
+date:   2017-03-20 19:03:54 +0500
+categories: Health
+tags: Fast, Fasting, Intermitent Fasting, Ramadan, Science, Cancer, Stem Cell, WBC, Cancer, non-mucous, mucous-free,Infection, Leukocytes, Leucocytes, Apple Cider Vinegar, ACV, Honey, Cinnamon
+description: Drinking Apple cider vinegar, Honey, Turmeric, and Cinnamon, first thing in the morning, could add many healthy years to your life. 
 image: apple-cider-vinegar-primal-now.jpg
+published: 1
 ---
+
 
 Please read my [Legal Disclaimer]({% post_url 2017-01-01-disclaimer %}){:target="_blank"} before reading this post.
 

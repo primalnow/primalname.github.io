@@ -1,27 +1,15 @@
 ---
-title: What is The Primal Now
-date: 2017-03-21 00:00:00 Z
-tags:
-- Quran,
-- Bible,
-- God,
-- Life,
-- Primal,
-- Power
-- of
-- Now,
-- Mindfulness,
-- Awareness,
-- Consciousness,
-- Heaven,
-- Hell,
-- Mind
 layout: post
-description: In the primal state, Adam and Eve were free, without the constraints
-  of time. There was nothing but pure love, and eternity. Is there any way of returning
-  to that heaven?
+title: 'What is The Primal Now'
+tags: Quran, Bible, God, Life, Primal, Power of Now, Mindfulness, Awareness, Consciousness, Heaven, Hell, Mind
+categories:
+description: In the primal state, Adam and Eve were free, without the constraints of time. There was nothing but pure love, and eternity. Is there any way of returning to that heaven?
 image: what-is-primal-now.jpg
 ---
+
+
+
+
 
 ## What is Primal?
 Primal is the basic animal of mankind. It usually describes something powerful. Primal is:

@@ -1,28 +1,12 @@
 ---
-title: About The Primal Now
-date: 2017-03-21 00:00:00 Z
-categories:
-- Mindfulness
-tags:
-- Quran,
-- Bible,
-- God,
-- Life,
-- Primal,
-- Power
-- of
-- Now,
-- Mindfulness,
-- Awareness,
-- Consciousness,
-- Heaven,
-- Hell,
-- Mind
 layout: post
-description: Introduction to The Primal Now website. This is a collection of things
-  I am learning on a day-to-day quest for a more conscious, and successful, life.
+title: 'About The Primal Now'
+tags: Quran, Bible, God, Life, Primal, Power of Now, Mindfulness, Awareness, Consciousness, Heaven, Hell, Mind
+categories: Mindfulness
+description: Introduction to The Primal Now website. This is a collection of things I am learning on a day-to-day quest for a more conscious, and successful, life.
 image: xthe-99-club.jpg
 ---
+
 
 This is a blog about discovering God, and thus the self. About mindfulness, awareness, and consciousness.
 
@@ -36,7 +20,7 @@ Unfortunately, followers of various religions have always been clashing with eac
 
 Those who have bothered to make such a study, have not talked about it, to avoid persecution by zealots.
 
-[The Primal Now]({% post_url 2017-01-02-what-is-primal-now %}), is my study and understanding of all teachings, in a quest to find eternal bliss.
+[The Primal Now]({% post_url 2017-01-01-what-is-primal-now %}), is my study and understanding of all teachings, in a quest to find eternal bliss.
 
 This website is a collection of things I am learning on a day-to-day quest for a more conscious, and successful, life.
 
