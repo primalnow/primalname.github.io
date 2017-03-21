@@ -22,7 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PrimalNow
 facebook_username: PrimalNow
 instagram_username: PrimalNow
-
+google_analytics: UA-94108730-1
 # Build settings
 markdown: kramdown
 #theme: minima
