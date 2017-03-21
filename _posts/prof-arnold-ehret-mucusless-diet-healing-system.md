@@ -1,35 +1,5 @@
 ---
-title: Prof. Arnold Ehret's Mucusless Diet Healing System
-date: 2017-03-20 13:02:54 Z
-categories:
-- Health
-tags:
-- Fast,
-- Fasting,
-- Intermitent
-- Ramadan,
-- Science,
-- Cancer,
-- Stem
-- Cell,
-- WBC,
-- non-mucous,
-- mucous-free,Infection,
-- Leukocytes
-- or
-- Leucocytes
-layout: post
-<<<<<<< HEAD
-title:  "Prof. Arnold Ehret's Mucusless Diet Healing System"
-date:   2017-03-20 18:02:54 +0500
-categories: Health
-tags: Fast, Fasting, Intermitent Fasting, Ramadan, Science, Cancer, Stem Cell, WBC, Cancer, non-mucous, mucous-free,Infection, Leukocytes or Leucocytes
-description: Intermittent fasting, and a mucous-free diet could be the key to naturally fighting infections, and especially cancer.
-=======
-excerpt: Intermittent fasting, and a mucous-free diet could be the key to naturally
-  fighting infections, and especially cancer.
->>>>>>> origin/master
-image: curing-infections-naturally-primal-now.jpg
+title: 2017 03 20 Prof Arnold Ehret Mucusless Diet Healing System
 ---
 
 Please read my [Legal Disclaimer]({% post_url 2017-01-01-disclaimer %}){:target="_blank"} before reading this post.

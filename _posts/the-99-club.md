@@ -1,26 +1,5 @@
 ---
-title: The 99 Club
-date: 2017-03-14 00:00:00 Z
-categories:
-- Wisdom
-tags:
-- Parables,
-- Fables,
-- Wisdom,
-- Quotes
-layout: post
-<<<<<<< HEAD:_posts/2017-03-15-the-99-club.md
-title: "The 99 Club"
-date: 2017-03-14
-tags: Parables, Fables, Wisdom, Quotes
-categories: Wisdom
-description: How much is enough? It is our nature to keep looking for that final success, which would bring us happiness. Here's a little story that shows how much is needed to be really happy.
-=======
-excerpt: How much is enough? It is our nature to keep looking for that final success,
-  which would bring us happiness. Here's a little story that shows how much is needed
-  to be really happy.
->>>>>>> origin/master:_posts/2017-03-14-the-99-club.md
-image: xthe-99-club.jpg
+title: 2017 03 14 The 99 Club
 ---
 
 Once upon a time, there lived a King who, despite his luxurious lifestyle, was not happy at all.
