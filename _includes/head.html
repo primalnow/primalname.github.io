@@ -18,7 +18,9 @@
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
     <!--<link rel="stylesheet" href="{{ "/assets/site.scss" | relative_url }}">-->
 
-    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+
+    {% include header-canonical-url.html %}
+
 
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
