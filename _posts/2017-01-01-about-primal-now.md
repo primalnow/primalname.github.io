@@ -8,6 +8,7 @@ image: xthe-99-club.jpg
 ---
 
 
+
 This is a blog about discovering God, and thus the self. About mindfulness, awareness, and consciousness.
 
 I am on a journey to discover The Spirit of God, and I believe that the key is hidden inside all religions. A joint study of all faiths, and great philosophies, could make it possible to unlock the door to the Kingdom of Heaven.

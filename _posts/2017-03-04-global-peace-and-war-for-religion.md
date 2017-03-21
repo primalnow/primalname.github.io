@@ -6,6 +6,7 @@ categories: Faith
 description: Millions of people continue to be killed, in the name of religion. No religion, or philosophy, endorses such atrocities. We need to re-evaluate the situation.
 ---
 
+
 <div class='post-summary' markdown='1'>
 
 #### Summary:

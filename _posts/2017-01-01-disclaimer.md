@@ -11,6 +11,7 @@ published: 1
 ---
 
 
+
 I am just your average person trying to live a better life. It is my belief, that experiences should be shared, so others may also benefit from them.
 
 I may not be very sure what I am - but I am quite sure what I am not. The following is a, very incomplete, list of people I don't claim to me.
