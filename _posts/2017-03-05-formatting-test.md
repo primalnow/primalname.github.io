@@ -1,13 +1,22 @@
 ---
-layout: post
-title:  "Formatting Test"
-categories: Temporary
-tags: blog, type, text, test, configuration, learning
-fq_excerpt: Here is a post for testing out formatting options in markdown
-fq_featuredimage:
-kramdown: 1
+title: Formatting Test
+date: 2017-03-05 00:00:00 Z
 published: false
+categories:
+- Temporary
+tags:
+- blog,
+- type,
+- text,
+- test,
+- configuration,
+- learning
+layout: post
+fq_excerpt: Here is a post for testing out formatting options in markdown
+fq_featuredimage: 
+kramdown: 1
 ---
+
 We are testing formatting options
 
 Now is the time

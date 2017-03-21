@@ -1,16 +1,6 @@
 ---
-<<<<<<< HEAD:_posts/2017-02-05-kindle-reader-waste-of-time.md
-layout: post
-title:  "Kindle e-reader is a waste of time"
-date:   2017-02-05 18:03:54 +0500
-categories: Technology
-tags: books, reading, technology, mobile devices, phones, tablets, ipad, android, kindle, amazon
-description: Kindle app is the best way to read books. But is the Kindly e-reader worth the money?
-fq_featuredimage:
-=======
-title: 2017 02 05 Kindle Reader Waste Of Time
->>>>>>> origin/master:_posts/kindle-reader-waste-of-time.md
 ---
+
 Before I bad mouth the Kindle E-reader, I must thank the device for helping me get over my reading mental block. All my life I just couldn't read books. I'm over 50 years old, and till last year, I had bought hundreds of books, but read no more than twenty - not including course books of course (which is another story). But the moment I held a Kindle E-reader in my hand, I was a convert. I no longer have the Kindle, for reasons explained below, but now every moment of my free time is used for reading books.
 
 I bought a Kindle Paperwhite, for $100, which is their second cheapest model. Even though the convenience of electronic reading turned out to be addictive for me, the device itself can drive any sane person insane. Here is what I think.
