@@ -1,14 +1,6 @@
 ---
-<<<<<<< HEAD:_posts/2017-02-26-chronology-of-prophets.md
-layout: post
-title:  "Chronology of Prophets and Spiritual Leaders"
-date:   2017-02-26 18:03:54 +0500
-categories: Religions
-tags: mindfulness faith religion god prophets jesus muhammad taoism buddhism hinduism shintoism
-description: Chronology of Prohpets, and greatest teachers, shows us how their teachings were a work in progress, and how it concluded.
-image: chronology-of-prophets-primal-now.jpg
-=======
->>>>>>> origin/master:_posts/chronology-of-prophets.md
+title: 2017 02 26 Chronology Of Prophets
+date: 2017-03-21 17:19:12.206000000 Z
 ---
 
 <div class='post-summary' markdown='1'>
