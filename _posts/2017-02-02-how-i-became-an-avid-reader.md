@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD:_posts/2017-02-02-how-i-became-an-avid-reader.md
 layout: post
 title:  "How I became an avid reader"
 date:   2017-02-02 18:03:54 +0500
@@ -7,8 +6,6 @@ categories: Technology Books
 tags: books, reading, technology, mobile devices, phones, tablets, ipad, android, kindle, amazon
 description: I have never been able to read books. But something helped me get over my reader's block, of 50 years. Find out what did the trick.
 fq_featuredimage:
-=======
->>>>>>> origin/master:_posts/how-i-became-an-avid-reader.md
 ---
 
 I could never read books, and that includes academic books. This incapability, was probably why I didn't do so well at school, among other unmentionable, and rather embarrassing, reasons (like laziness).  

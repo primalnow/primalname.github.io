@@ -1,12 +1,15 @@
 ---
-title: Legal Disclaimer
-date: 2017-01-01 00:00:00 Z
 layout: post
-url: disclaimer
-description: Every visitor to this blog MUST read this legal disclaimer. I take no
-  responsibility for what you do after reading my recommendations.
+title:  "Legal Disclaimer"
+url: "disclaimer"
+date:   2017-01-01
+categories:
+tags:
+description: Every visitor to this blog MUST read this legal disclaimer. I take no responsibility for what you do after reading my recommendations.
 image: primal-now-legal-disclaimer.jpg
+published: 1
 ---
+
 
 I am just your average person trying to live a better life. It is my belief, that experiences should be shared, so others may also benefit from them.
 
