@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD:_posts/2017-01-23-how-to-deal-with-verbally-abusive-husband.md
 layout: post
 title:  "How to deal with a verbally abusive husband"
 date:   2017-01-23 18:03:54 +0500
@@ -6,6 +7,8 @@ categories: Relationships
 tags: relationships, love, romance, husband, wife, marriage, family
 description: We all know someone who is silently suffering in a verbally abusive husband. Find out how to break away from this hell.
 fq_featuredimage:
+=======
+>>>>>>> origin/master:_posts/how-to-deal-with-verbally-abusive-husband.md
 ---
 
 <em><strong>My mother in law has a habit of complaining about silly things, to my husband. My husband, in turn, takes his frustration out on me. I retaliate, and we end up fighting. This cycle is destroying our marriage. He is a good man, I love him, and I don't want to leave him. How do I save my marriage?</strong></em>

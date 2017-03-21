@@ -1,9 +1,12 @@
 ---
+<<<<<<< HEAD:_posts/2017-03-04-global-peace-and-war-for-religion.md
 layout: post
 title:  "Global Peace and War for Religion"
 date:   2017-03-04 18:03:54 +0500
 categories: Faith
 description: Millions of people continue to be killed, in the name of religion. No religion, or philosophy, endorses such atrocities. We need to re-evaluate the situation.
+=======
+>>>>>>> origin/master:_posts/global-peace-and-war-for-religion.md
 ---
 
 <div class='post-summary' markdown='1'>

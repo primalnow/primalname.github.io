@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD:_posts/2017-03-20-morning-detox-drink-apple-cider-vinegar.md
 layout: post
 title:  "Daily Detox with Apple Cider Vinegar"
 date:   2017-03-20 19:03:54 +0500
@@ -8,6 +9,17 @@ description: Drinking Apple cider vinegar, Honey, Turmeric, and Cinnamon, first 
 image: apple-cider-vinegar-primal-now.jpg
 published: 1
 ---
+=======
+---
+
+=======
+title: 2017 03 20 Morning Detox Drink Apple Cider Vinegar
+---
+
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master:_posts/morning-detox-drink-apple-cider-vinegar.md
+>>>>>>> origin/master:_posts/morning-detox-drink-apple-cider-vinegar.md
 
 
 Please read my [Legal Disclaimer]({% post_url 2017-01-01-disclaimer %}){:target="_blank"} before reading this post.
