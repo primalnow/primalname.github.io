@@ -1,10 +1,6 @@
 
   {% assign named_image_exists = 0 %}
-
-
   {% if thispost.image %}
-
-
     {% assign featuredimage =  '/media/featured-images/' | append: thispost.image   %}
         {% for static_file in site.static_files %}
                     {% if static_file.path == featuredimage  %}
@@ -13,9 +9,6 @@
                     {% endif %}
         {% endfor %}
   {% endif %}
-
-
-
 
 {% if include.page-type != 'post' %}
   <a href="{{ thispost.url | relative_url }}">

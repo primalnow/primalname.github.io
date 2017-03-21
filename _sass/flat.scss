@@ -621,3 +621,43 @@ blockquote {
     max-width: 500px;
     margin: 10px auto;
 }
+
+
+
+
+.post-description {
+    margin: 60px;
+    display: block;
+    padding: 20px;
+    text-align: left;
+    font-size: 1.2em;
+    border: 2px ridge #95f5df;
+    background: #f0fffc;
+    box-shadow: 1px 1px 77px rgba(42, 128, 110, 0.22) i
+}
+
+
+
+
+
+
+
+
+
+
+.homepage-recent-blurbs {
+    display: inline-block;
+
+    .recent-post-blurb {
+        width:40%;
+    }
+
+    .recent-post-blurb:nth-child(odd) {
+        float: left;
+    }
+    .recent-post-blurb:nth-child(even) {
+        float: right;
+    }
+
+
+}

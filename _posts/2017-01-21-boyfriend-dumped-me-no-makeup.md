@@ -4,7 +4,7 @@ title:  "My boyfriend dumped me because I didn't wear makeup, and wasn't fashion
 date:   2017-01-21 18:03:54 +0500
 categories: Relationships
 tags: relationships, love, romance, dating, couples, fashion, glamour
-fq_excerpt:
+description: Are you struggling in a relationship where your partner thinks you are not as fashionable as others? There is a solution.
 fq_featuredimage:
 ---
 

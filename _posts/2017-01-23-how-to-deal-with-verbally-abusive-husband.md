@@ -4,7 +4,7 @@ title:  "How to deal with a verbally abusive husband"
 date:   2017-01-23 18:03:54 +0500
 categories: Relationships
 tags: relationships, love, romance, husband, wife, marriage, family
-fq_excerpt:
+description: We all know someone who is silently suffering in a verbally abusive husband. Find out how to break away from this hell.
 fq_featuredimage:
 ---
 

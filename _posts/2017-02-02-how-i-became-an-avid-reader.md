@@ -4,13 +4,13 @@ title:  "How I became an avid reader"
 date:   2017-02-02 18:03:54 +0500
 categories: Technology Books
 tags: books, reading, technology, mobile devices, phones, tablets, ipad, android, kindle, amazon
-fq_excerpt:
+description: I have never been able to read books. But something helped me get over my reader's block, of 50 years. Find out what did the trick.
 fq_featuredimage:
 ---
 
 I could never read books, and that includes academic books. This incapability, was probably why I didn't do so well at school, among other unmentionable, and rather embarrassing, reasons (like laziness).  
 
-I know individuals who are always reading. Some of my friends even go to reading holidays. I know a couple who travel to exotic locations, just to lounge around, and read books. I envied such people who could continually consume the written word. 
+I know individuals who are always reading. Some of my friends even go to reading holidays. I know a couple who travel to exotic locations, just to lounge around, and read books. I envied such people who could continually consume the written word.
 
 All my life I bought books hoping to read them one day. I even kept a few of them on my bedside table, thinking that would help me get started. As you can guess, it never happened. Luckily my life had a reading revolution in May 2016 - just before Ramadan.
 
@@ -23,7 +23,7 @@ After buying paper books for decades, which I never read, I decided to order a K
 
 2. I needed answers about intermittent fasting
 --
-I had always wanted to understand the deeper spiritual, and scientific purpose of Ramadan and fasting. I didn't think God wanted us to starve all day, unless there was a deep-rooted advantage in doing so. There had to be a bigger purpose of fasting every day, for a month every year. Something bigger than just worship, or a lesson in discipline. There had to be a more spiritual, and physical, advantage to gain from the month of Ramadan. A few weeks earlier, I had seen a blog post about intermittent fasting for curing cancer. Armed with my Kindle app [Why I ditched my Kindle Paperwhite], I started looking for books on the subject. What I discovered, made an everlasting impact on my life. My whole lifestyle changed. I now eat mostly fruits and vegetables - and every free moment of my time is spent reading. 
+I had always wanted to understand the deeper spiritual, and scientific purpose of Ramadan and fasting. I didn't think God wanted us to starve all day, unless there was a deep-rooted advantage in doing so. There had to be a bigger purpose of fasting every day, for a month every year. Something bigger than just worship, or a lesson in discipline. There had to be a more spiritual, and physical, advantage to gain from the month of Ramadan. A few weeks earlier, I had seen a blog post about intermittent fasting for curing cancer. Armed with my Kindle app [Why I ditched my Kindle Paperwhite], I started looking for books on the subject. What I discovered, made an everlasting impact on my life. My whole lifestyle changed. I now eat mostly fruits and vegetables - and every free moment of my time is spent reading.
 
 
 Conclusion

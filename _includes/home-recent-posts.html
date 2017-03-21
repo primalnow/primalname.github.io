@@ -2,7 +2,7 @@
 
 <div class='homepage-recent-posts'>
   <div class='banner'>Recent Posts</div>
-  
+
       {% for post in site.posts limit:2 offset:1 %}
         <div class='recent-post'>
 
@@ -18,6 +18,6 @@
           <div class="excerpt">{{ post.fq_excerpt }}</div>
         </div>
       {% endfor %}
-  
-  
+
+
 </div>

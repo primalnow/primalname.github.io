@@ -4,7 +4,7 @@ title:  "Kindle e-reader is a waste of time"
 date:   2017-02-05 18:03:54 +0500
 categories: Technology
 tags: books, reading, technology, mobile devices, phones, tablets, ipad, android, kindle, amazon
-fq_excerpt:
+description: Kindle app is the best way to read books. But is the Kindly e-reader worth the money?
 fq_featuredimage:
 ---
 Before I bad mouth the Kindle E-reader, I must thank the device for helping me get over my reading mental block. All my life I just couldn't read books. I'm over 50 years old, and till last year, I had bought hundreds of books, but read no more than twenty - not including course books of course (which is another story). But the moment I held a Kindle E-reader in my hand, I was a convert. I no longer have the Kindle, for reasons explained below, but now every moment of my free time is used for reading books.
@@ -28,5 +28,3 @@ The only advantage an E-reader has over an iPad mini, or an Android tablet, is w
 
 Conclusion:
 Dont' bother with any dedicated book readers. They're nonsense. I have installed the Kindle app on my iPad mini 1st Generation with only 16GB memory. This device was otherwise useless for anything sensible, but works like a gem for reading books on the Kindle app. My wife is using a real cheap Asus Android tablet, which we had lying around, with the Kindle app, and even that is 1000 times better than the Kindle E-reader.
-
-

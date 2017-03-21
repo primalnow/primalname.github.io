@@ -3,19 +3,19 @@ layout: post
 title:  "Global Peace and War for Religion"
 date:   2017-03-04 18:03:54 +0500
 categories: Faith
-fq_excerpt: Millions of people continue to be killed, in the name of religion. No religion, or philosophy, endorses such atrocities. We need to re-evaluate the situation.
+description: Millions of people continue to be killed, in the name of religion. No religion, or philosophy, endorses such atrocities. We need to re-evaluate the situation.
 ---
 
 <div class='post-summary' markdown='1'>
 
 #### Summary:
 
-1. All religions, and philosophies, want to enable people to be happy.
-2. People have been killing each other for their beliefs.
-3. No religion allows violence against any form of life.
-4. A new social consciousness is emerging. Old ideologies are being challenged
-5. The Internet is allowing people to talk to each other. Ideas are being shared, like never before in history.
-6. We need to unlearn everything, and look at global harmony with a new spirit.
+-   All religions, and philosophies, want to enable people to be happy.
+-   People have been killing each other for their beliefs.
+-   No religion allows violence against any form of life.
+-   A new social consciousness is emerging. Old ideologies are being challenged
+-   The Internet is allowing people to talk to each other. Ideas are being shared, like never before in history.
+-   We need to unlearn everything, and look at global harmony with a new spirit.
 
 </div>
 
