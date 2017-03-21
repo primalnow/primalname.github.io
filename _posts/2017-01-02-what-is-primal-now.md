@@ -2,7 +2,7 @@
 layout: post
 title: 'What is The Primal Now'
 tags: Quran, Bible, God, Life, Primal, Power of Now, Mindfulness, Awareness, Consciousness, Heaven, Hell, Mind
-categories: Mindfulness
+categories: 
 excerpt: In the primal state, Adam and Eve were free, without the constraints of time. There was nothing but pure love, and eternity. Is there any way of returning to that heaven?
 image: what-is-primal-now.jpg
 ---
