@@ -1,10 +1,31 @@
 ---
+title: Chronology of Prophets and Spiritual Leaders
+date: 2017-02-26 13:03:54 Z
+categories:
+- Religions
+tags:
+- mindfulness
+- faith
+- religion
+- god
+- prophets
+- jesus
+- muhammad
+- taoism
+- buddhism
+- hinduism
+- shintoism
 layout: post
+<<<<<<< HEAD
 title:  "Chronology of Prophets and Spiritual Leaders"
 date:   2017-02-26 18:03:54 +0500
 categories: Religions
 tags: mindfulness faith religion god prophets jesus muhammad taoism buddhism hinduism shintoism
 description: Chronology of Prohpets, and greatest teachers, shows us how their teachings were a work in progress, and how it concluded.
+=======
+fq_excerpt: Chronology of Prohpets, and greatest teachers, shows us how their teachings
+  were a work in progress, and how it concluded.
+>>>>>>> origin/master
 image: chronology-of-prophets-primal-now.jpg
 ---
 

@@ -1,13 +1,30 @@
 ---
+title: My boyfriend dumped me because I didn't wear makeup, and wasn't fashionable,
+  like other girls
+date: 2017-01-21 13:03:54 Z
+categories:
+- Relationships
+tags:
+- relationships,
+- love,
+- romance,
+- dating,
+- couples,
+- fashion,
+- glamour
 layout: post
+<<<<<<< HEAD
 title:  "My boyfriend dumped me because I didn't wear makeup, and wasn't fashionable, like other girls"
 date:   2017-01-21 18:03:54 +0500
 categories: Relationships
 tags: relationships, love, romance, dating, couples, fashion, glamour
 description: Are you struggling in a relationship where your partner thinks you are not as fashionable as others? There is a solution.
 fq_featuredimage:
+=======
+fq_excerpt: 
+fq_featuredimage: 
+>>>>>>> origin/master
 ---
-
 
 <em><strong>My boyfriend dumped me because I am not like other girls who wear makeup and fashionable clothes. What should I do?</strong></em>
 

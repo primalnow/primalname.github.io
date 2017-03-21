@@ -1,9 +1,10 @@
 ---
-layout: page
 title: All Posts
-permalink: /all-posts/
+permalink: "/all-posts/"
+layout: page
 inmenu: 1
 ---
+
 <div class='page-all-posts'>
 	<div class='all-posts' >
 
