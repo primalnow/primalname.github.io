@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD:_posts/2017-03-20-prof-arnold-ehret-mucusless-diet-healing-system.md
 layout: post
 title:  "Prof. Arnold Ehret's Mucusless Diet Healing System"
 date:   2017-03-20 18:02:54 +0500
@@ -8,9 +7,6 @@ tags: Fast, Fasting, Intermitent Fasting, Ramadan, Science, Cancer, Stem Cell, W
 description: Intermittent fasting, and a mucous-free diet could be the key to naturally fighting infections, and especially cancer.
 image: curing-infections-naturally-primal-now.jpg
 published: 1
-=======
-title: 2017 03 20 Prof Arnold Ehret Mucusless Diet Healing System
->>>>>>> origin/master:_posts/prof-arnold-ehret-mucusless-diet-healing-system.md
 ---
 
 
