@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Post Index
+sitemap: false
 paginate:
   enabled: true
   collection:   posts
@@ -9,7 +10,7 @@ paginate:
   permalink:    /blog/page:num/     # pagination path (relative to template page)
   title_suffix: " - page :num" # Append to template's page title
   reversed:     false          # Reverse the order of the documents
-  trail: 
+  trail:
     before: 2 # The number of links before the current page
     after: 2  # The number of links after the current page
 ---
@@ -53,5 +54,3 @@ Paginatorx
   {% endif %}
 </ul>
 {% endif %}
-
-
