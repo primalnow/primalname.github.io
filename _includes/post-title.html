@@ -25,12 +25,12 @@
                 <img src ="{{ featuredimage }}">
               </div>
               <h1 class="title">
-                 {{ thispost.title }}
+                 {{ thispost.title | truncate:  site.seo.lengths.title }}
               </h1>
         {% else %}
           <div id="featured-image-banner">
               <div>
-               {{ thispost.title }}
+               {{ thispost.title | truncate:  site.seo.lengths.title }}
               </div>
           </div>
         {% endif %}

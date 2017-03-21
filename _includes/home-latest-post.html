@@ -13,10 +13,10 @@
         {% assign desc =  thispost.excerpt %}
     {% endif %}
 
-    {% assign desc =   desc | truncate: 160, '...'  %}
+    {% assign desc =   desc | truncate: site.seo.lengths.description, '...'  %}
 
     {% assign descsize = desc.size %}
-    {% if descsize < 140 %}
+    {% if descsize < site.seo.lengths.descriptionmin %}
         {% assign desc =   desc | append: '---' %}
     {% endif %}
 

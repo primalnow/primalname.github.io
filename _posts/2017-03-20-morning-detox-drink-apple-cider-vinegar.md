@@ -4,7 +4,7 @@ title:  "Daily Detox with Apple Cider Vinegar"
 date:   2017-03-20 19:03:54 +0500
 categories: Health
 tags: Fast, Fasting, Intermitent Fasting, Ramadan, Science, Cancer, Stem Cell, WBC, Cancer, non-mucous, mucous-free,Infection, Leukocytes, Leucocytes, Apple Cider Vinegar, ACV, Honey, Cinnamon
-description: Apple Cider Vinegar is claimed to have many benefits, including weight loss. Combined with Honey, Turmeric, and Cinnamon, it makes a magic potion. Read about my experience with a daily drink of this cocktail.
+description: Drinking Apple cider vinegar, Honey, Turmeric, and Cinnamon, first thing in the morning, could add many healthy years to your life. 
 image: apple-cider-vinegar-primal-now.jpg
 published: 1
 ---
