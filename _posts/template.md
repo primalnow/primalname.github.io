@@ -1,12 +1,13 @@
 ---
+title: xxx
+date: 2017-02-26 13:03:54 Z
 layout: post
-title:  "xxx"
-date:   2017-02-26 18:03:54 +0500
 categories: Religions
-tags: mindfulness faith religion god prophets jesus muhammad taoism buddhism hinduism shintoism
-fq_excerpt: Chronology of Prohpets, and greatest teachers, shows us how their teachings were a work in progress, and how it concluded.
+tags: mindfulness faith religion god prophets jesus muhammad taoism buddhism hinduism
+  shintoism
+fq_excerpt: Chronology of Prohpets, and greatest teachers, shows us how their teachings
+  were a work in progress, and how it concluded.
 image: xxxx.jpg
-published: 0
 ---
 
 <div class='post-summary' markdown='1'>

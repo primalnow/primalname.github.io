@@ -1,12 +1,25 @@
 ---
+title: Benefits of Ramadan - Scientific Evidence
+date: 2017-03-20 00:00:00 Z
+categories:
+- Health
+tags:
+- Islam,
+- Religion,
+- Fast,
+- Fasting,
+- Intermitent
+- Ramadan,
+- Science,
+- Cancer,
+- Stem
+- Cell,
+- WBC,
+- Cancer
 layout: post
-title:  "Benefits of Ramadan - Scientific Evidence"
-date:   2017-03-20
-categories: Health
-tags: Islam, Religion, Fast, Fasting, Intermitent Fasting, Ramadan, Science, Cancer, Stem Cell, WBC, Cancer
-fq_excerpt: Almost every Islamic mandatory practice has much deeper benefits that science is still discovering. Read how Ramadan's fasts can cure cancer.
+fq_excerpt: Almost every Islamic mandatory practice has much deeper benefits that
+  science is still discovering. Read how Ramadan's fasts can cure cancer.
 image: ramadan-fasts-cure-cancer.jpg
-published: 0
 ---
 
 <div class='post-summary' markdown='1'>

@@ -1,11 +1,24 @@
 ---
+title: How I became an avid reader
+date: 2017-02-02 13:03:54 Z
+categories:
+- Technology
+- Books
+tags:
+- books,
+- reading,
+- technology,
+- mobile
+- devices,
+- phones,
+- tablets,
+- ipad,
+- android,
+- kindle,
+- amazon
 layout: post
-title:  "How I became an avid reader"
-date:   2017-02-02 18:03:54 +0500
-categories: Technology Books
-tags: books, reading, technology, mobile devices, phones, tablets, ipad, android, kindle, amazon
-fq_excerpt:
-fq_featuredimage:
+fq_excerpt: 
+fq_featuredimage: 
 ---
 
 I could never read books, and that includes academic books. This incapability, was probably why I didn't do so well at school, among other unmentionable, and rather embarrassing, reasons (like laziness).  

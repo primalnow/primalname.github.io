@@ -1,19 +1,20 @@
 ---
-layout: page
 title: Post Index
+layout: page
 sitemap: false
 paginate:
   enabled: true
-  collection:   posts
-  per_page:     4             # maximum number of items per page
-  limit:        5              # Maximum number of pages to paginate (false for unlimited)
-  permalink:    /blog/page:num/     # pagination path (relative to template page)
-  title_suffix: " - page :num" # Append to template's page title
-  reversed:     false          # Reverse the order of the documents
+  collection: posts
+  per_page: 4
+  limit: 5
+  permalink: "/blog/page:num/"
+  title_suffix: " - page :num"
+  reversed: false
   trail:
-    before: 2 # The number of links before the current page
-    after: 2  # The number of links after the current page
+    before: 2
+    after: 2
 ---
+
 Paginatorx
 
 
