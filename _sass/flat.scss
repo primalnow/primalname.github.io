@@ -61,6 +61,7 @@ h1, h2, h3, h4 {
 
 h1 {
     font-size: 2em;
+    line-height: 1.2em;
     color: $brand-color;
 }
 h2 {
@@ -633,4 +634,38 @@ blockquote {
     border: 2px ridge #95f5df;
     background: #f0fffc;
     box-shadow: 1px 1px 77px rgba(42, 128, 110, 0.22) ;
+}
+
+
+
+
+
+.homepage-recent-blurbs {
+    display: inline-block;
+
+
+        .banner {
+          font-size: 1.3em;
+          font-weight: bold;
+          color: $brand-color;
+          border-bottom: 1px solid $brand-color;
+          margin-bottom: 20px;
+        }
+
+        .recent-post{
+          margin: 10px 0px 20px 20px;
+          //border-left: 5px solid $brand-color;
+          padding: 0 0 0 15px;
+        }
+
+        .title {
+              margin: 0;
+        font-weight: bold;
+        font-size: 1em;
+        }
+
+        .excerpt {
+          padding-left: 15px;
+        }
+
 }

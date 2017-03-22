@@ -1,0 +1,23 @@
+
+
+<div class='homepage-recent-posts'>
+  <div class='banner'>Recent Posts</div>
+
+      {% for post in site.posts limit:2 offset:1 %}
+        <div class='recent-post'>
+
+          {% if post.title %}
+            <h2 class="title">
+                <a href="{{  post.url | relative_url }}">{{ post.title }}</a>
+            </h2>
+          {% else %}
+            <h2 class="title">
+                <a href="{{ root_url }}{{ post.url }}">Untitled Post</a>
+            </h2>
+          {% endif %}
+          <div class="excerpt">{{ post.fq_excerpt }}</div>
+        </div>
+      {% endfor %}
+
+
+</div>

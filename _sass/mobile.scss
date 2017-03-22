@@ -42,6 +42,13 @@
       padding: 0;
       //background: #fffbf5;
 
+
+
+      .title {
+          font-size: 1.6em;
+          line-height: 1.3em;
+          text-align: center;
+      }
   }
 
 
@@ -146,4 +153,19 @@ blockquote {
 .post-description {
     margin: 0px;
     border: 0;
+}
+
+
+
+
+
+.homepage-recent-blurbs {
+
+
+    .recent-post-blurb{
+        margin-bottom: 30px;
+    }
+    .recent-post-blurb:last-child {
+        margin-bottom: 10px;
+    }
 }
