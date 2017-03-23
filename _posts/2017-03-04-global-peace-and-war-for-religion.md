@@ -4,6 +4,7 @@ title:  "Global Peace and War for Religion"
 date:   2017-03-04 18:03:54 +0500
 categories: Faith
 description: Millions of people continue to be killed, in the name of religion. No religion, or philosophy, endorses such atrocities. We need to re-evaluate the situation.
+image: global-peace-and-religion-for-war-primal-now.jpg
 ---
 
 
@@ -37,11 +38,9 @@ But a new social consciousness is quickly emerging. With the help of the interne
 
 This evolution, though not complete, is becoming stronger every day. Commanders who lead their followers to the destruction of happiness are now being questioned. Every ideology is being put to test.
 
-
 <div class='quotation'>
 <a target="_blank"  href="https://www.amazon.com/gp/product/0452289963/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0452289963&linkCode=as2&tag=primalnow-20&linkId=ccd022a79fc1fe69634c51b812079dff"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0452289963&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=primalnow-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=primalnow-20&l=am2&o=1&a=0452289963" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
-
 
 Sure, we are still at war amongst each other, and maybe many more wars are to be fought, but for the first time, in the history of mankind, a new era of peace and happiness seems at hand.
 

@@ -10,9 +10,7 @@ collections:
     output: true
 email: primalnowblog@gmail.com
 description: 'This is a collection of things I''ve learned on my day-to-day quest
-  for a more conscious, mindful, spiritual, and successful, life.
-
-'
+  for a more conscious, mindful, spiritual, and successful, life.'
 baseurl: ''
 url: http://blog.primalnow.com
 twitter_username: PrimalNow
@@ -24,6 +22,7 @@ gems:
 - jekyll-feed
 - jemoji
 - jekyll-sitemap
+# - amp-jekyll
 exclude:
 - Gemfile
 - Gemfile.lock
@@ -34,3 +33,4 @@ seo:
     title: 60
     description: 150
     descriptionmin: 130
+ampdir: amp

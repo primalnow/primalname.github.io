@@ -633,7 +633,7 @@ blockquote {
     font-size: 1.2em;
     border: 2px ridge #95f5df;
     background: #f0fffc;
-    box-shadow: 1px 1px 77px rgba(42, 128, 110, 0.22) ;
+    box-shadow: 1px 1px 77px rgba(42, 128, 110, 0.22) inset;
 }
 
 
@@ -643,13 +643,19 @@ blockquote {
 .homepage-recent-blurbs {
     display: inline-block;
 
+        .recent-post-blurb {
+        }
 
         .banner {
-          font-size: 1.3em;
-          font-weight: bold;
-          color: $brand-color;
-          border-bottom: 1px solid $brand-color;
-          margin-bottom: 20px;
+            font-size: 1.3em;
+            font-weight: bold;
+            margin-bottom: 40px;
+
+            background: $brand-color;
+            padding: 10px;
+            text-align: center;
+            color: #fff !important;
+
         }
 
         .recent-post{
@@ -659,13 +665,33 @@ blockquote {
         }
 
         .title {
-              margin: 0;
-        font-weight: bold;
-        font-size: 1em;
+            margin: 0;
+            font-weight: bold;
+            font-size: 1.4em;
+            margin: 10px 0;
         }
 
         .excerpt {
           padding-left: 15px;
+        }
+
+        .description {
+            margin: 15px 0;
+        }
+
+
+        .read-more {
+            float: right;
+            border: 1px solid $brand-color;
+            padding: 10px;
+            background: #eef2f5;
+            color: $brand-color;
+            margin-bottom: 50px;
+
+            a {
+                color: $brand-color;
+                font-weight: bold;
+            }
         }
 
 }
