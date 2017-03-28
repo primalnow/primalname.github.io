@@ -1,9 +1,6 @@
 
 
-<div class='homepage-recent-blurbs'>
-  <div class='banner'>Recent Posts</div>
-
-      {% for post in site.posts limit:4 offset:1 %}
+      {% for post in site.posts limit:include.limit offset:include.offset %}
       {% assign thispost = post %}
 
 
@@ -11,10 +8,9 @@
             {% include post-title.html page-type='XXpost' %}
           <div class="description">{{ post.description }}</div>
           <div class='read-more'>
-              <a href="{{ thispost.url | relative_url }}">Read this post</a>
+              <div>
+                  <a href="{{ thispost.url | relative_url }}">Read this post</a>
+              </div>
           </div>
         </div>
       {% endfor %}
-
-
-</div>

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'About The Primal Now'
+title: 'About "The Primal Now" Project'
 tags: Quran, Bible, God, Life, Primal, Power of Now, Mindfulness, Awareness, Consciousness, Heaven, Hell, Mind
 categories: Mindfulness
 description: Introduction to The Primal Now website. This is a collection of things I am learning on a day-to-day quest for a more conscious, and successful, life.
-image: xthe-99-club.jpg
+image: about-primal-now.jpg
 ---
 
 

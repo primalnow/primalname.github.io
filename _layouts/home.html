@@ -10,6 +10,8 @@ layout: default
 
 
 
-<div  id="recent-posts" class='main-unit'>
-  {% include home-recent-posts.html %}
+<div class='homepage-recent-blurbs main-unit'>
+  <div class='banner'>Recent Posts</div>
+
+  {% include home-recent-posts.html  limit=6 offset=1 %}
 </div>

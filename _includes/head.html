@@ -3,7 +3,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{% if page.title %}{{ page.title | truncate:  site.seo.lengths.title  | escape }}{% else %}{{ site.title | truncate: site.seo.lengths.title  | escape }}{% endif %}</title>
+    <title>{% if page.title %}{{ page.title | truncate:  site.seo.lengths.title  | escape | append: ' - The Primal Now'}}{% else %}{{ site.title | truncate: site.seo.lengths.title  | escape }}{% endif %}</title>
 
     <meta name="description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: site.seo.lengths.description | escape }}">
 

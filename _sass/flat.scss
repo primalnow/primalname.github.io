@@ -167,7 +167,7 @@ article.post {
 
 
 .post-content {
-  margin: 60px;
+  margin: 30px;
 
 
   h2 {
@@ -642,28 +642,30 @@ blockquote {
 
 .homepage-recent-blurbs {
     display: inline-block;
+    .banner {
+        font-size: 1.3em;
+        font-weight: bold;
+        margin-bottom: 40px;
 
-        .recent-post-blurb {
+        background: $brand-color;
+        padding: 10px;
+        text-align: center;
+        color: #fff !important;
+
+    }
+
+
+}
+
+
+
+    .recent-post-blurb {
+        margin-bottom: 50px;
+
+
+        #featured-image-banner div {
+            font-size: 40px;
         }
-
-        .banner {
-            font-size: 1.3em;
-            font-weight: bold;
-            margin-bottom: 40px;
-
-            background: $brand-color;
-            padding: 10px;
-            text-align: center;
-            color: #fff !important;
-
-        }
-
-        .recent-post{
-          margin: 10px 0px 20px 20px;
-          //border-left: 5px solid $brand-color;
-          padding: 0 0 0 15px;
-        }
-
         .title {
             margin: 0;
             font-weight: bold;
@@ -681,17 +683,19 @@ blockquote {
 
 
         .read-more {
-            float: right;
-            border: 1px solid $brand-color;
-            padding: 10px;
-            background: #eef2f5;
-            color: $brand-color;
-            margin-bottom: 50px;
+            width: 100%;
+            text-align: right;
 
-            a {
-                color: $brand-color;
-                font-weight: bold;
+            div{
+                border: 1px solid $brand-color;
+                padding: 10px;
+                background: #eef2f5;
+                display: inline-block;
+
+                a {
+                    color: $brand-color;
+                    font-weight: bold;
+                }
             }
         }
-
-}
+    }

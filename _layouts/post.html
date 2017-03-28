@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
  {% assign thispost = page %}
   <header class="post-header">
   {% include post-title.html page-type='post' %}
@@ -19,4 +18,3 @@ layout: default
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
   {% endif %}
-</article>

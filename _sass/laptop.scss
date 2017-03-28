@@ -52,17 +52,30 @@
 
 
 
-.homepage-recent-blurbs {
-    display: inline-block;
 
     .recent-post-blurb{
-        width: 48%
+        width: 48%;
+        border: 1px solid $brand-color;
+        margin-bottom: 20px;
+
+        .title {
+            margin: 10px;
+        }
+        .description {
+            margin: 15px 20px;
+        }
+        .read-more {
+            div {
+                margin: 10px;
+            }
+        }
+
     }
     .recent-post-blurb:nth-child(odd) {
-        float: left;
+        float: right;
+        clear: right;
     }
     .recent-post-blurb:nth-child(even) {
-        float: right;
+        float: left;
+        clear: left;
     }
-
-}
