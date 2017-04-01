@@ -71,11 +71,11 @@
         }
 
     }
-    .recent-post-blurb:nth-child(odd) {
+    .recent-post-blurb:nth-child(even) {
         float: right;
         clear: right;
     }
-    .recent-post-blurb:nth-child(even) {
+    .recent-post-blurb:nth-child(odd) {
         float: left;
         clear: left;
     }

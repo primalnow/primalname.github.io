@@ -562,7 +562,6 @@ header.page-header {
     background: #e8e8e8;
     padding: 15px;
     text-align: center;
-    xmax-width: 300px;
     margin: 10px 15px;
     border: 1px solid #b5b5b5;
     box-shadow: 1px 1px 1px #fff inset;
@@ -659,43 +658,64 @@ blockquote {
 
 
 
-    .recent-post-blurb {
-        margin-bottom: 50px;
+.recent-post-blurb {
+    margin-bottom: 50px;
 
 
-        #featured-image-banner div {
-            font-size: 40px;
-        }
-        .title {
-            margin: 0;
-            font-weight: bold;
-            font-size: 1.4em;
-            margin: 10px 0;
-        }
+    #featured-image-banner div {
+        font-size: 40px;
+    }
+    .title {
+        margin: 0;
+        font-weight: bold;
+        font-size: 1.4em;
+        margin: 10px 0;
+    }
 
-        .excerpt {
-          padding-left: 15px;
-        }
+    .excerpt {
+      padding-left: 15px;
+    }
 
-        .description {
-            margin: 15px 0;
-        }
+    .description {
+        margin: 15px 0;
+    }
 
 
-        .read-more {
-            width: 100%;
-            text-align: right;
+    .read-more {
+        width: 100%;
+        text-align: right;
 
-            div{
-                border: 1px solid $brand-color;
-                padding: 10px;
-                background: #eef2f5;
-                display: inline-block;
+        div{
+            border: 1px solid $brand-color;
+            padding: 10px;
+            background: #eef2f5;
+            display: inline-block;
 
-                a {
-                    color: $brand-color;
-                    font-weight: bold;
-                }
+            a {
+                color: $brand-color;
+                font-weight: bold;
             }
         }
     }
+}
+
+
+
+
+
+figure {
+    border: 1px solid #000;
+    margin: 50px 0;
+    background: #efefef;
+
+    img {
+        border-bottom: 1px solid #000;
+    }
+    figcaption {
+        margin: 10px 20px;
+        color: #000;
+        font-size: .8em;
+        line-height: 1.5em;
+        text-align: left;
+    }
+}
