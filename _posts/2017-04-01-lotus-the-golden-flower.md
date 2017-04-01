@@ -2,12 +2,17 @@
 layout: post
 title: 'Lotus - The Golden flower of consciousness'
 tags: Lotus, Buddhism, Egyptian, Egypt, Buddha, Tipitika, Bhikku Bodhi, Resurrection, Reincarnation
-categories: [Enlightenment Mindfulness]
+categories: [Enlightenment Mindfulness Buddhism]
 permalink: 'lotus-the-golden-flower'
 description: Lotus is a symbol of creation across many religions, and cultures. In Buddhism, this flower represents the essence of enlightenment.
 image: lotus-buddhism-primal-now.jpg
 date: 2017-04-01
 ---
+<div class='getty-image'>
+
+<div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:447px;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/499270770" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:132.885906% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/499270770?et=zgy7V63tRYp32sNAQVJq3A&tld=com&viewMoreLink=on&sig=yTdRVPYOll__luQJnjJu7Z7l3hbwFEpo0_CjLHUR5IE=&caption=true" width="447" height="594" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
+</div>
+&nbsp;
 
 Lotus, the golden flower of consciousness, is a symbol of purity, awakening, reincarnation, and enlightenment.
 
