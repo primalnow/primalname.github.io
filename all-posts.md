@@ -25,7 +25,8 @@ inmenu: 1
 					 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
 				</span>
 				<span class='categories'>
-					{{ post.categories }}
+				 [ <a href='/archives/category/{{post.categories[0] | slugify: 'pretty'}}'>{{ post.categories }}</a> ]
+
 				</span>
 
 			</div>

@@ -100,13 +100,14 @@
         }
         .title {
             display: block;
-            text-indent: 20px;
+            padding-left:  20px;
             color: #888;
         }
         .categories {
             display: block;
-            text-indent: 30px;
             color: #888;
+            text-align: right;
+
         }
     }
 }

@@ -496,6 +496,9 @@ header.page-header {
         margin-bottom: 10px;
         border-bottom: 1px solid #ccc;
 
+        a {
+            color: $brand-color;
+        }
         .date {
             font-size: .8em;
             color: #888;
@@ -506,6 +509,7 @@ header.page-header {
         .categories {
             font-size: .8em;
             color: #888;
+            white-space: nowrap;
 
         }
     }
