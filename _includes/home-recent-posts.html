@@ -1,12 +1,34 @@
 
 
-      {% for post in site.posts limit:include.limit offset:include.offset %}
+
+{% if include.posts-set %}
+    {% assign posts-set = include.posts-set %}
+{% else %}
+    {% assign posts-set = site.posts %}
+{% endif %}
+
+
+{% if include.category %}
+    {% assign posts = posts-set | where:'categories', include.category %}
+{% else %}
+    {% assign posts = posts-set %}
+{% endif %}
+      {% for post in posts limit:include.limit offset:include.offset  %}
       {% assign thispost = post %}
-
-
         <div class='recent-post-blurb'>
             {% include post-title.html page-type='XXpost' %}
           <div class="description">{{ post.description }}</div>
+
+
+
+          <div class='categories'>
+              <div>
+                  Category: <a href='/archives/category/{{post.categories[0] | slugify: 'pretty'}}'>{{ post.categories }}</a>
+              </div>
+          </div>
+
+
+
           <div class='read-more'>
               <div>
                   <a href="{{ thispost.url | relative_url }}">Read this post</a>
